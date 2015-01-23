@@ -1,0 +1,19 @@
+{
+  "name": "d3js-server-side",
+  "version": "0.0.1",
+  "description": "d3js renderizer",
+  "main": "d3js-server-side.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "d3js",
+    "server-side"
+  ],
+  "author": "Luis Manuel Ramirez Vargas <luis.manuel.ramirez.91@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "^3.0.2",
+    "phantomjs": "^1.9.13"
+  }
+}
