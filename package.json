@@ -1,7 +1,7 @@
 {
   "name": "d3js-server-side",
   "version": "0.0.1",
-  "description": "d3js renderizer",
+  "description": "d3js server-side renderizer",
   "main": "d3js-server-side.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
